@@ -1,0 +1,46 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"AdriMark"
+		]
+	},
+	"header": {
+		"name": "Quiet Tridents",
+		"description": "Makes Trident Ground Sounds and (Optionally) Mob Hit Sounds Quiet. Farm in Peace! §6Made by @SMTAdriMark / MarkCraft.Org",
+		"min_engine_version": [
+			1,
+			21,
+			100
+		],
+		"uuid": "e151f425-b3a5-4228-a7d5-4744c0907c1b",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "5dafe836-09e0-4ab4-a53a-462b42c4aef8",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"subpacks": [
+		{
+			"folder_name": "subpack_1",
+			"name": "Quiet Trident Ground Sounds",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "subpack_2",
+			"name": "Quiet Trident Hit + Ground Sounds (Default)",
+			"memory_tier": 0
+		}
+	]
+}
